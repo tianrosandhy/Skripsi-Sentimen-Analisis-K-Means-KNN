@@ -1,0 +1,10 @@
+*{margin:0px auto; box-sizing: border-box;}
+body{font-family:sans-serif; line-height:1.5em;}
+#wrapper{width:80%;}
+h1{padding:1em 0;}
+.block{padding:1em; background:#eee;}
+.form-stem input{width:100%; display:block; font-size:24px; padding:.25em;}
+.form-stem button{font-size:20px; position:relative; top:5px; cursor:pointer;}
+
+.blockquote{padding:.5em; margin:1em 0; font-size:20px; border-left:2px solid #666;}
+.content{margin:1em 0;}
