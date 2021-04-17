@@ -1,3 +1,10 @@
+# [DEPRECATED]
+## More completed apps has been moved to https://github.com/tianrosandhy/PHP-Sentiment-Analysis
+
+
+
+
+
 # Skripsi-Sentimen-Analisis-K-Means-KNN
 Ini skripsi sederhana saya (yg tentunya udah diACC) tentang metode analisis sentimen komentar dengan methode K-Means dan KNN. Contoh data kalimat yang digunakan adalah menggunakan angket evaluasi dosen di kampus. Metode ini bisa diterapkan untuk analisis sentimen dasar konteks lainnya juga.
 
